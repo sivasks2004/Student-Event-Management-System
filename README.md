@@ -27,7 +27,7 @@ Below are some screenshots showcasing the application interface & you can able t
     
     <tr>
       <td><img src="https://github.com/sivasks2004/Student-Event-Management-System/blob/main/Screenshots_/Screenshot%202025-03-17%20091559.png" width="400">
-     
+     </td>
     </tr>
   </table>
 </div>
